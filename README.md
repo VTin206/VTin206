@@ -1,214 +1,207 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=VTin%20-%20H%E1%BB%93%20s%C6%A1%20l%E1%BA%ADp%20tr%C3%ACnh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=H%E1%BB%8Dc%20%E2%80%A2%20X%C3%A2y%20d%E1%BB%B1ng%20%E2%80%A2%20Chia%20s%E1%BA%BB&descAlignY=60&descSize=18" alt="Banner hồ sơ lập trình của VTin" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:155e75,100:06b6d4&height=230&section=header&text=VTin&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=H%E1%BB%8Dc%20%E2%80%A2%20X%C3%A2y%20d%E1%BB%B1ng%20%E2%80%A2%20Chia%20s%E1%BA%BB&descAlignY=63&descSize=20" alt="Banner VTin" />
 
 <h1>Xin chào, mình là VTin 👋</h1>
 
-<h3>Sinh viên phát triển phần mềm · Người giải quyết vấn đề · Người học suốt đời</h3>
-
 <p>
-  Mình thích tìm hiểu cách công nghệ hoạt động, xây dựng những dự án thực tế
-  và biến các ý tưởng thành những sản phẩm đơn giản, hữu ích.
+  <strong>Sinh viên phát triển phần mềm</strong> · Xây dựng sản phẩm thực tế · Luôn học hỏi
 </p>
 
 <p>
   <a href="https://github.com/VTin206">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/VTin206?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Các kho mã nguồn" />
+    <img src="https://img.shields.io/badge/Dự%20án-155E75?style=for-the-badge&logo=github&logoColor=white" alt="Các dự án" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=VTin206&label=L%C6%B0%E1%BB%A3t%20xem%20h%E1%BB%93%20s%C6%A1&color=2563eb&style=flat-square" alt="Lượt xem hồ sơ" />
-  <img src="https://img.shields.io/github/followers/VTin206?label=Ng%C6%B0%E1%BB%9Di%20theo%20d%C3%B5i&style=flat-square&color=06b6d4" alt="Người theo dõi GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=VTin206&label=Lượt%20xem&color=06b6d4&style=flat-square" alt="Lượt xem hồ sơ" />
+  <img src="https://img.shields.io/github/followers/VTin206?label=Người%20theo%20dõi&color=0e7490&style=flat-square" alt="Người theo dõi GitHub" />
+  <img src="https://img.shields.io/github/stars/VTin206?label=Stars&color=0e7490&style=flat-square" alt="Stars" />
 </p>
 
 </div>
 
 <br />
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Hoạt ảnh khủng long pixel" />
-
-## 👨‍💻 Giới thiệu về mình
-
-- 🎓 Mình là một sinh viên phát triển phần mềm và đang xây dựng nền tảng lập trình vững chắc.
-- 🌱 Hiện tại mình đang học **phát triển web, cơ sở dữ liệu, lập trình và kỹ nghệ phần mềm**.
-- 🧠 Mình thích chia nhỏ những vấn đề phức tạp thành các bước dễ hiểu.
-- 🛠️ Mình quan tâm đến code dễ đọc, tài liệu rõ ràng và trải nghiệm người dùng tốt.
-- 🤝 Mình sẵn sàng hợp tác trong các dự án sinh viên, dự án học tập và dự án mã nguồn mở cho người mới.
-- ⚡ Quan điểm cá nhân: sự đều đặn quan trọng hơn cảm hứng khi học lập trình.
-
-<br clear="right" />
-
-## 🎯 Mục tiêu hiện tại
-
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
 
-### Đang học
+## 👨‍💻 Về mình
 
-- Củng cố nền tảng lập trình
-- Xây dựng giao diện web responsive
-- Làm việc với cơ sở dữ liệu quan hệ
-- Luyện tập Git và quy trình làm việc nhóm
+Mình đang học và xây dựng các sản phẩm phần mềm với mục tiêu biến những ý tưởng đơn giản thành trải nghiệm hữu ích, dễ sử dụng.
+
+- 🎓 Tập trung xây dựng nền tảng phát triển phần mềm
+- 🌱 Đang học web development, database và software engineering
+- 🧩 Thích giải quyết vấn đề bằng tư duy rõ ràng, từng bước
+- 🛠️ Quan tâm đến code sạch, tài liệu tốt và giao diện chỉn chu
+- 🤝 Sẵn sàng hợp tác trong các dự án học tập và mã nguồn mở
 
     </td>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top">
 
-### Đang xây dựng
+## ✨ Hiện tại
 
-- Những dự án nhỏ giải quyết vấn đề thực tế
-- Các component rõ ràng và có thể tái sử dụng
-- README và tài liệu dự án tốt hơn
-- Portfolio gồm những dự án mà mình tự hào
+```text
+Học tập       ████████████████████
+Xây dựng      ██████████████████░░
+Thử nghiệm    ███████████████░░░░░
+Chia sẻ       ██████████████░░░░░░
+```
+
+> Mỗi dự án là một cơ hội để học sâu hơn, viết tốt hơn và tạo ra giá trị thực tế.
 
     </td>
   </tr>
 </table>
 
-## 🧰 Công nghệ và công cụ
+<div align="center">
 
-### Ngôn ngữ và công nghệ nền tảng
+## ⚡ Một chút về hành trình của mình
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=H%E1%BB%8Dc+ki%E1%BA%BFn+th%E1%BB%A9c+m%E1%BB%9Bi+m%E1%BB%97i+ng%C3%A0y;X%C3%A2y+d%E1%BB%B1ng+t%E1%BB%ABng+d%E1%BB%B1+%C3%A1n+nh%E1%BB%8F;T%E1%BB%91i+%C6%B0u+code%2C+tr%E1%BA%A3i+nghi%E1%BB%87m+v%C3%A0+t%C3%A0i+li%E1%BB%87u;Chia+s%E1%BA%BB+%C4%91i%E1%BB%81u+m%C3%ACnh+h%E1%BB%8Dc+%C4%91%C6%B0%E1%BB%A3c" alt="Các câu giới thiệu luân phiên" />
+
+</div>
+
+## 🧰 Công nghệ mình sử dụng
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Ngôn ngữ & giao diện
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" alt="HTML CSS JavaScript TypeScript Python Java" />
+
+    </td>
+    <td width="50%" valign="top">
+
+### Công cụ & nền tảng
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,linux" alt="Git GitHub VS Code MySQL Figma Linux" />
+
+    </td>
+  </tr>
+</table>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" alt="Ngôn ngữ và công nghệ nền tảng" />
+  <img src="https://img.shields.io/badge/Clean%20Code-0F172A?style=flat-square&logo=codefactor&logoColor=white" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-155E75?style=flat-square&logo=css3&logoColor=white" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/REST%20API-0891B2?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Documentation-0E7490?style=flat-square&logo=readthedocs&logoColor=white" alt="Documentation" />
 </p>
 
-### Công cụ và nền tảng
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,linux" alt="Công cụ và nền tảng" />
-</p>
-
-> Danh sách này thể hiện những công nghệ mình đang học và sử dụng. Nó sẽ tiếp tục được cập nhật khi mình hoàn thành thêm nhiều dự án.
-
-## 📌 Dự án nổi bật
-
-> Hãy thay ba mục bên dưới bằng các repository thực tế của bạn. Nên chọn những dự án thể hiện các kỹ năng khác nhau và có README rõ ràng.
+## 📂 Dự án nổi bật
 
 <table>
   <tr>
     <td width="33%" valign="top">
 
-### Dự án thứ nhất
+### 🌐 Dự án web
 
-**Một ứng dụng thực tế**
-
-Mô tả vấn đề mà dự án giải quyết, các công nghệ chính được sử dụng và điều bạn học được trong quá trình xây dựng.
+Ứng dụng web tập trung vào giao diện rõ ràng, responsive và trải nghiệm người dùng.
 
 `HTML` `CSS` `JavaScript`
 
 <br />
 
-[Xem dự án →](https://github.com/VTin206)
+<a href="https://github.com/VTin206">Xem repository →</a>
 
     </td>
     <td width="33%" valign="top">
 
-### Dự án thứ hai
+### 🗃️ Dự án dữ liệu
 
-**Một dự án dữ liệu hoặc cơ sở dữ liệu**
-
-Mô tả tính năng chính, thiết kế dữ liệu và một thử thách kỹ thuật bạn đã giải quyết.
+Ứng dụng hoặc bài tập thực hành về xử lý dữ liệu, SQL và thiết kế cơ sở dữ liệu.
 
 `Python` `MySQL` `Git`
 
 <br />
 
-[Xem dự án →](https://github.com/VTin206)
+<a href="https://github.com/VTin206">Xem repository →</a>
 
     </td>
     <td width="33%" valign="top">
 
-### Dự án thứ ba
+### 🚀 Dự án đang phát triển
 
-**Một dự án đang được cải thiện**
-
-Mô tả tính năng tiếp theo bạn muốn bổ sung và cách mọi người có thể đóng góp hoặc gửi phản hồi.
+Một ý tưởng đang được cải thiện từng bước với mục tiêu tạo ra sản phẩm hữu ích.
 
 `TypeScript` `React` `API`
 
 <br />
 
-[Xem dự án →](https://github.com/VTin206)
+<a href="https://github.com/VTin206">Xem repository →</a>
 
     </td>
   </tr>
 </table>
 
-## 📊 Hoạt động trên GitHub
+> **Gợi ý:** Hãy thay ba thẻ trên bằng các repository thật, kèm ảnh preview, tính năng chính và link demo nếu có.
+
+## 📊 Thống kê GitHub
 
 <div align="center">
 
 <a href="https://github.com/VTin206">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VTin206&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&theme=tokyonight&rank_icon=github" alt="Thống kê GitHub của VTin" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=VTin206&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=0f172a&title_color=67e8f9&text_color=cbd5e1&icon_color=22d3ee&rank_icon=github" alt="Thống kê GitHub của VTin" />
 </a>
 <a href="https://github.com/VTin206">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTin206&layout=compact&langs_count=8&hide_border=true&border_radius=12&theme=tokyonight" alt="Các ngôn ngữ sử dụng nhiều nhất" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTin206&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=0f172a&title_color=67e8f9&text_color=cbd5e1" alt="Các ngôn ngữ sử dụng nhiều nhất" />
 </a>
 
 <br />
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=VTin206&theme=tokyonight&hide_border=true&border_radius=12" alt="Chuỗi đóng góp trên GitHub" />
+  <img src="https://streak-stats.demolab.com?user=VTin206&hide_border=true&border_radius=16&background=0F172A&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Chuỗi đóng góp GitHub" />
 </a>
 
 </div>
 
-## 🗺️ Lộ trình học tập
+## 🧭 Cách mình phát triển một dự án
 
-```text
-Nền tảng lập trình           ████████████████████  100%
-Quy trình Git và GitHub      ██████████████████░░   90%
-HTML và CSS                  █████████████████░░░   85%
-JavaScript và TypeScript     ███████████████░░░░░   75%
-Cơ sở dữ liệu và SQL         ██████████████░░░░░░   70%
-Kiểm thử và triển khai       ███████████░░░░░░░░░   55%
-```
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>01</strong><br />Hiểu vấn đề</td>
+    <td align="center" width="25%"><strong>02</strong><br />Lên kế hoạch</td>
+    <td align="center" width="25%"><strong>03</strong><br />Xây dựng</td>
+    <td align="center" width="25%"><strong>04</strong><br />Cải tiến</td>
+  </tr>
+</table>
 
-## ✍️ Nguyên tắc phát triển
-
-| Nguyên tắc | Ý nghĩa với mình |
+| Nguyên tắc | Mình áp dụng như thế nào |
 | --- | --- |
-| **Luôn học hỏi** | Cải thiện từng chút mỗi ngày và giữ tinh thần tò mò. |
-| **Xây dựng để hiểu** | Biến lý thuyết thành kỹ năng thực tế thông qua dự án. |
-| **Ưu tiên sự rõ ràng** | Viết code và tài liệu để người khác có thể dễ dàng theo dõi. |
-| **Cải tiến liên tục** | Bắt đầu từ những phần nhỏ, tiếp nhận phản hồi và hoàn thiện dần. |
-| **Chia sẻ kiến thức** | Ghi lại bài học để bản thân và mọi người có thể tham khảo sau này. |
+| **Rõ ràng** | Ưu tiên code dễ đọc, tên biến dễ hiểu và cấu trúc hợp lý. |
+| **Thực tế** | Học thông qua việc xây dựng những thứ có thể sử dụng được. |
+| **Kiên trì** | Chia nhỏ mục tiêu và tiến bộ đều đặn mỗi ngày. |
+| **Chia sẻ** | Ghi lại bài học và viết tài liệu để người khác dễ tiếp cận. |
 
-## 🤝 Kết nối với mình
+## 📬 Kết nối với mình
 
-Nếu bạn muốn trao đổi về một dự án, chia sẻ tài liệu học tập hoặc hợp tác, hãy liên hệ với mình:
-
-<p>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Li%C3%AAn%20h%E1%BB%87-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Liên hệ qua email" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img src="https://img.shields.io/badge/LinkedIn-K%E1%BA%BFt%20n%E1%BB%91i-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/VTin206?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Xem%20d%E1%BB%B1%20%C3%A1n-181717?style=for-the-badge&logo=github&logoColor=white" alt="Xem các repository trên GitHub" />
-  </a>
-</p>
+Bạn muốn trao đổi về dự án, chia sẻ tài liệu học tập hoặc cùng nhau xây dựng một sản phẩm? Hãy liên hệ với mình:
 
 <div align="center">
 
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Li%C3%AAn%20h%E1%BB%87-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Liên hệ qua email" />
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <img src="https://img.shields.io/badge/LinkedIn-K%E1%BA%BFt%20n%E1%BB%91i-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/VTin206?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Xem%20d%E1%BB%B1%20%C3%A1n-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Xem các dự án GitHub" />
+</a>
+
+<br />
 <br />
 
-### Cảm ơn bạn đã ghé thăm hồ sơ của mình! ⭐
-
-<i>Học tập không ngừng. Xây dựng có mục đích. Chia sẻ giá trị.</i>
-
-<br />
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=110&section=footer" alt="Banner cuối trang" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=70&section=footer&text=H%E1%BB%8Dc%20t%E1%BA%ADp%20kh%C3%B4ng%20ng%E1%BB%ABng%20%E2%80%A2%20X%C3%A2y%20d%E1%BB%B1ng%20c%C3%B3%20m%E1%BB%A5c%20%C4%91%C3%ADch&fontSize=16&fontColor=67E8F9" alt="Thông điệp cuối trang" />
 
 </div>
