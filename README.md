@@ -21,8 +21,8 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=VTin206&label=Lượt%20xem&color=06b6d4&style=flat-square" alt="Lượt xem hồ sơ" />
-  <img src="https://img.shields.io/github/followers/VTin206?label=Người%20theo%20dõi&color=0e7490&style=flat-square" alt="Người theo dõi GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=VTin206&label=L%C6%B0%E1%BB%A3t%20xem&color=06b6d4&style=flat-square" alt="Lượt xem hồ sơ" />
+  <img src="https://img.shields.io/github/followers/VTin206?label=Ng%C6%B0%E1%BB%9Di%20theo%20d%C3%B5i&color=0e7490&style=flat-square" alt="Người theo dõi GitHub" />
   <img src="https://img.shields.io/github/stars/VTin206?label=Stars&color=0e7490&style=flat-square" alt="Stars" />
 </p>
 
