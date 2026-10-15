@@ -95,54 +95,6 @@ Chia sẻ       ██████████████░░░░░░
 
 </div>
 
-## 📂 Dự án nổi bật
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
-### 🌐 Dự án web
-
-Ứng dụng web tập trung vào giao diện rõ ràng, responsive và trải nghiệm người dùng.
-
-`HTML` `CSS` `JavaScript`
-
-<br />
-
-<a href="https://github.com/VTin206">Xem repository →</a>
-
-    </td>
-    <td width="33%" valign="top">
-
-### 🗃️ Dự án dữ liệu
-
-Ứng dụng hoặc bài tập thực hành về xử lý dữ liệu, SQL và thiết kế cơ sở dữ liệu.
-
-`Python` `MySQL` `Git`
-
-<br />
-
-<a href="https://github.com/VTin206">Xem repository →</a>
-
-    </td>
-    <td width="33%" valign="top">
-
-### 🚀 Dự án đang phát triển
-
-Một ý tưởng đang được cải thiện từng bước với mục tiêu tạo ra sản phẩm hữu ích.
-
-`TypeScript` `React` `API`
-
-<br />
-
-<a href="https://github.com/VTin206">Xem repository →</a>
-
-    </td>
-  </tr>
-</table>
-
-> **Gợi ý:** Hãy thay ba thẻ trên bằng các repository thật, kèm ảnh preview, tính năng chính và link demo nếu có.
-
 ## 📊 Thống kê GitHub
 
 <div align="center">
