@@ -165,24 +165,6 @@ Một ý tưởng đang được cải thiện từng bước với mục tiêu 
 
 </div>
 
-## 🧭 Cách mình phát triển một dự án
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>01</strong><br />Hiểu vấn đề</td>
-    <td align="center" width="25%"><strong>02</strong><br />Lên kế hoạch</td>
-    <td align="center" width="25%"><strong>03</strong><br />Xây dựng</td>
-    <td align="center" width="25%"><strong>04</strong><br />Cải tiến</td>
-  </tr>
-</table>
-
-| Nguyên tắc | Mình áp dụng như thế nào |
-| --- | --- |
-| **Rõ ràng** | Ưu tiên code dễ đọc, tên biến dễ hiểu và cấu trúc hợp lý. |
-| **Thực tế** | Học thông qua việc xây dựng những thứ có thể sử dụng được. |
-| **Kiên trì** | Chia nhỏ mục tiêu và tiến bộ đều đặn mỗi ngày. |
-| **Chia sẻ** | Ghi lại bài học và viết tài liệu để người khác dễ tiếp cận. |
-
 ## 📬 Kết nối với mình
 
 Bạn muốn trao đổi về dự án, chia sẻ tài liệu học tập hoặc cùng nhau xây dựng một sản phẩm? Hãy liên hệ với mình:
