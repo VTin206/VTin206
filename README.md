@@ -72,31 +72,28 @@ Chia sẻ       ██████████████░░░░░░
 
 ## 🧰 Công nghệ mình sử dụng
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
 
-### Ngôn ngữ & giao diện
+<h3>Ngôn ngữ & giao diện</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" alt="HTML CSS JavaScript TypeScript Python Java" />
 
-    </td>
-    <td width="50%" valign="top">
+<br />
+<br />
 
-### Công cụ & nền tảng
+<h3>Công cụ & nền tảng</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,linux" alt="Git GitHub VS Code MySQL Figma Linux" />
 
-    </td>
-  </tr>
-</table>
+<br />
+<br />
 
-<p>
-  <img src="https://img.shields.io/badge/Clean%20Code-0F172A?style=flat-square&logo=codefactor&logoColor=white" alt="Clean Code" />
-  <img src="https://img.shields.io/badge/Responsive%20UI-155E75?style=flat-square&logo=css3&logoColor=white" alt="Responsive UI" />
-  <img src="https://img.shields.io/badge/REST%20API-0891B2?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Documentation-0E7490?style=flat-square&logo=readthedocs&logoColor=white" alt="Documentation" />
-</p>
+<img src="https://img.shields.io/badge/Clean%20Code-0F172A?style=flat-square&logo=codefactor&logoColor=white" alt="Clean Code" />
+<img src="https://img.shields.io/badge/Responsive%20UI-155E75?style=flat-square&logo=css3&logoColor=white" alt="Responsive UI" />
+<img src="https://img.shields.io/badge/REST%20API-0891B2?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/Documentation-0E7490?style=flat-square&logo=readthedocs&logoColor=white" alt="Documentation" />
+
+</div>
 
 ## 📂 Dự án nổi bật
 
