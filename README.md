@@ -5,7 +5,7 @@
 <h1>Xin chào, mình là VTin 👋</h1>
 
 <p>
-  <strong>Sinh viên phát triển phần mềm</strong> · Xây dựng sản phẩm thực tế · Luôn học hỏi
+  <strong>Sinh viên ngành kỹ thuật phần mềm UIT</strong> · Xây dựng dự án thực tế · Luôn học hỏi
 </p>
 
 <p>
